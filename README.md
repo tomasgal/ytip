@@ -1,6 +1,4 @@
-# ytip
-YouTube incognito play
-# YouTube Video Auto-Play Script with Cookie Acceptance
+# ytip : YouTube Video Auto-Play Script with Cookie Acceptance
 
 This Python script automates the process of opening YouTube videos in an incognito Chrome browser, accepting the cookie banner (in Slovak), and playing each video for a specified duration. It loops through a list of video URLs, restarting the playlist after each cycle.
 
